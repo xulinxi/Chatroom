@@ -1,2 +1,8 @@
-# Chatroom
-Created a WebSocket application that utilizes popular sever- and client-side technologies.
+# WebSockets-ws Chat Application
+
+To run this application, first open up a terminal. Then, run the command below:
+
+```sh
+npm install
+node server.js
+```
